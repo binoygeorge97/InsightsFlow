@@ -1,6 +1,6 @@
 
-🤖 InsightsFlow: T-Mobile Network & Sentiment Monitor
-A real-time dashboard for the T-Mobile Hackathon that simulates regional network performance and customer sentiment, then uses an agentic AI (NVIDIA Nemotron) to analyze the data and recommend proactive actions.
+🤖 InsightsFlow: Network & Sentiment Monitor
+A real-time dashboard that simulates regional network performance and customer sentiment, then uses an agentic AI (NVIDIA Nemotron) to analyze the data and recommend proactive actions.
 
 <img width="1920" height="1020" alt="Screenshot 2025-11-09 082346" src="https://github.com/user-attachments/assets/e2c2393c-0a58-4636-a03d-50abfb7cdbcc" />
 
