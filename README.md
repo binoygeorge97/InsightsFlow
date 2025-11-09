@@ -47,13 +47,7 @@ Fetches data from the Report Server (:8001/reports) every 5 seconds.
 
 Visualizes the data for the user.
 
-Data Flow Diagram
-[simulator.py] ----(Simulated Data)----> [agent_listener.py] ----(Agent Report)----> [reporter_with_storage.py]
-     |                                          |                                         |
- (Serves at :8000)                        (Pulls from :8000)                         (Serves at :8001/reports)
-                                          (POSTs to :8001)                                    |
-                                                                                            |
-                                <----(Fetches from :8001/reports)---- [streamlit_dashboard.py]
+
 ⚙️ How to Run
 You will need four separate terminals open to run the full system.
 
