@@ -1,13 +1,9 @@
-Got it. "InsightsFlow" is a great name.
-
-Here is the updated README.md file with your new app name.
-
-(Copy everything below this line)
 
 🤖 InsightsFlow: T-Mobile Network & Sentiment Monitor
 A real-time dashboard for the T-Mobile Hackathon that simulates regional network performance and customer sentiment, then uses an agentic AI (NVIDIA Nemotron) to analyze the data and recommend proactive actions.
 
-(Suggestion: Take a screenshot of your running Streamlit dashboard and upload it to GitHub or Imgur, then replace the URL above!)
+<img width="1920" height="1020" alt="Screenshot 2025-11-09 082346" src="https://github.com/user-attachments/assets/e2c2393c-0a58-4636-a03d-50abfb7cdbcc" />
+
 
 🚀 Key Features
 Real-Time Simulation: Uses Gemini to generate a realistic, continuous stream of network metrics (latency, loss) and customer feedback (tweets, support calls).
